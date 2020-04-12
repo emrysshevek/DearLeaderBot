@@ -104,3 +104,4 @@ function getIDFromMention(mention) {
 }
 
 client.login(process.env.DISCORD_TOKEN);
+
